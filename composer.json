@@ -1,0 +1,15 @@
+{
+  "name": "trinitymirror/wordpress-mu-domain-mapping",
+  "description": "Map any blog/site on a WordPressMU or WordPress 3.X network to an external domain.",
+  "keywords": [
+    "wordpressmu",
+    "domain-mapping",
+    "multisite"
+  ],
+  "homepage": "https://github.com/trinitymirror/wordpress-mu-domain-mapping",
+  "license": "GPL-2.0+",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
